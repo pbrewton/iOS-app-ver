@@ -33,4 +33,5 @@ https://apps.apple.com/us/app/privacy-com/id1040298266
 https://apps.apple.com/us/app/imovie/id377298193
 https://apps.apple.com/us/app/device-monitor/id1522870046
 https://apps.apple.com/us/app/neomow/id6505140065
+https://apps.apple.com/us/app/usps-mobile/id339597578
 https://apps.apple.com/us/app/github/id1477376905
